@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning unity engine and improving my pyhton skills
 - 💞️ I’m looking to collaborate on whats coming up
 - 📫 How to reach me ... ping me a mail patrick@ownfile.xyz
-- :package: my portfolio page https://patrick982.github.io
+- :package: my portfolio page https://patrick982.github.io (wip)
 
 <!---
 patrick982/patrick982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
