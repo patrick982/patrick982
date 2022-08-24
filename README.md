@@ -2,7 +2,7 @@
 - 👀 I’m interested in all sorts of coding and engeneering
 - 🌱 I’m currently learning unity engine and improving my pyhton skills
 - 💞️ I’m looking to collaborate on whats coming up
-- 📫 How to reach me ... ping me a mail patrick@ownfile.xyz
+- 📫 How to reach me ... ping me a mail patrick dot stampler at gmail dot com
 - :package: my portfolio page; I tried to make something good looking - https://patrick982.github.io
 
 <!---
